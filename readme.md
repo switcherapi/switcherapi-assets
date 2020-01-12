@@ -2,5 +2,5 @@
 
 # Projects  
 - [**Switcher API**](https://github.com/petruki/switcher-api)
-- [**Switcher API - Client JavaScript**](https://github.com/petruki/switcher-client-master)
-- [**Switcher API - Client Java**](https://github.com/petruki/switcher-client)
+- [**Switcher API - JavaScript Client**](https://github.com/petruki/switcher-client-master)
+- [**Switcher API - Java Client**](https://github.com/petruki/switcher-client)
